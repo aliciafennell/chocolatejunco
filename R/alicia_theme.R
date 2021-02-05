@@ -14,3 +14,4 @@ alicia_theme <- function() {
     axis.title = element_text(colour = "cyan4")
   )
 }
+
